@@ -60,4 +60,77 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 42.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 168 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                251 commits         █████████░░░░░░░░░░░░░░░░   34.15 % 
+🌃 Evening                352 commits         ████████████░░░░░░░░░░░░░   47.89 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Tuesday                  145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Wednesday                150 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Thursday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Saturday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/12/2023 07:05:18 UTC
 <!--END_SECTION:waka-->
