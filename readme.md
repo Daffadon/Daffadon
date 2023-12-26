@@ -63,76 +63,75 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+**🐱 My GitHub Data** 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 42.5 kB Used in GitHub's Storage
->
-> 🏆 168 Contributions in the Year 2023
->
+> 📦 67.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 244 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 11 Public Repositories
->
-> 🔑 10 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-🌆 Daytime                251 commits         █████████░░░░░░░░░░░░░░░░   34.15 %
-🌃 Evening                352 commits         ████████████░░░░░░░░░░░░░   47.89 %
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+🌞 Morning                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌆 Daytime                285 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
+🌃 Evening                388 commits         ████████████░░░░░░░░░░░░░   47.84 % 
+🌙 Night                  45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
-
-📅 **I'm Most Productive on Wednesday**
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Tuesday                  145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Wednesday                150 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-Thursday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Saturday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Sunday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Monday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Tuesday                  153 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Wednesday                182 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Friday                   122 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Saturday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Sunday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 %
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
-Last Updated on 04/12/2023 07:05:18 UTC
 
+ Last Updated on 26/12/2023 15:24:39 UTC
 <!--END_SECTION:waka-->
