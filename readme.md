@@ -63,8 +63,6 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -77,45 +75,6 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-🌆 Daytime                327 commits         ████████░░░░░░░░░░░░░░░░░   33.96 % 
-🌃 Evening                477 commits         ████████████░░░░░░░░░░░░░   49.53 % 
-🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  191 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Wednesday                201 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Friday                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Saturday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 19:00:41 UTC
+ Last Updated on 11/04/2024 18:39:06 UTC
 <!--END_SECTION:waka-->
