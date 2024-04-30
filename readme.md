@@ -69,7 +69,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 **🐱 My GitHub Data** 
 
-> 📦 66.1 kB Used in GitHub's Storage 
+> 📦 66.2 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2024
  > 
@@ -135,5 +135,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:41:05 UTC
+ Last Updated on 30/04/2024 18:40:50 UTC
 <!--END_SECTION:waka-->
