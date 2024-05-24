@@ -65,13 +65,11 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 66.4 kB Used in GitHub's Storage 
- > 
-> 🏆 87 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,5 +133,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 18:40:36 UTC
+ Last Updated on 24/05/2024 18:40:23 UTC
 <!--END_SECTION:waka-->
