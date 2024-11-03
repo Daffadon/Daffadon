@@ -63,9 +63,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,53 +75,14 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                713 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
-🌃 Evening                1099 commits        █████████████░░░░░░░░░░░░   51.60 % 
-🌙 Night                  92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Tuesday                  360 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                345 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Thursday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Friday                   414 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Saturday                 312 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Sunday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -133,5 +92,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:43:54 UTC
+ Last Updated on 03/11/2024 18:44:37 UTC
 <!--END_SECTION:waka-->
