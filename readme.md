@@ -31,7 +31,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 ### Tech Stack 💻 📘
 
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java, html, css, javascript, typescript, golang, react, next, express, vite, tailwind, mui, prisma, mongodb, mysql, firebase, jest, git, jenkins, docker, kubernetes, github, postman, prometheus, grafana, gcp,vscode,arch,&perline=8"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
