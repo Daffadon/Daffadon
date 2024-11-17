@@ -36,7 +36,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,5 +104,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 18:45:00 UTC
+ Last Updated on 17/11/2024 18:45:32 UTC
 <!--END_SECTION:waka-->
