@@ -42,11 +42,13 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 > 📦 71.6 kB Used in GitHub's Storage 
  > 
+> 🏆 326 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -104,5 +106,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2024 18:49:56 UTC
+ Last Updated on 07/12/2024 18:47:18 UTC
 <!--END_SECTION:waka-->
