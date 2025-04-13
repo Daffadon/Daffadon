@@ -42,7 +42,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 > 📦 77.9 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,5 +106,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 18:47:14 UTC
+ Last Updated on 13/04/2025 18:46:55 UTC
 <!--END_SECTION:waka-->
