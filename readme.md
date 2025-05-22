@@ -34,11 +34,13 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 78.4 kB Used in GitHub's Storage 
+> 📦 78.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,6 +48,45 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌆 Daytime                1471 commits        ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌃 Evening                1707 commits        ███████████░░░░░░░░░░░░░░   44.89 % 
+🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Tuesday                  745 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Wednesday                520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 645 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Friday                   775 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Saturday                 452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -63,5 +104,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:52:07 UTC
+ Last Updated on 22/05/2025 18:52:05 UTC
 <!--END_SECTION:waka-->
