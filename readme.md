@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,24 +77,24 @@ Sunday                   348 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       14 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   40.05 % 
-TypeScript               9 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-YAML                     4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Bash                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Nginx configuration file 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Go                       16 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.57 % 
+YAML                     6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+TypeScript               4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Bash                     3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Nginx configuration file 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ebike_smart_manufacturing10 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-auth-service             7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-deployment               7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-notification-service     6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-user-service             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+deployment               10 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   30.30 % 
+auth-service             8 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+notification-service     6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+ebike_smart_manufacturing4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+user-service             4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 
 💻 Operating System: 
-Windows                  36 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +114,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 17:18:50 UTC
+ Last Updated on 27/06/2025 17:17:47 UTC
 <!--END_SECTION:waka-->
