@@ -34,13 +34,13 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 79.6 kB Used in GitHub's Storage 
+> 📦 79.7 kB Used in GitHub's Storage 
  > 
 > 🏆 510 Contributions in the Year 2025
  > 
@@ -77,24 +77,24 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       13 hrs 57 mins      ████████████████████░░░░░   78.49 % 
-YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Nginx configuration file 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Go                       9 hrs 5 mins        █████████████████░░░░░░░░   68.70 % 
+TypeScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Nginx configuration file 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
-auth-service             4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-user-service             2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-RTSPtoWebRTC             1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-ml                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+backend                  5 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+RTSPtoWebRTC             1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+user-service             1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+ml                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+frontend                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 💻 Operating System: 
-Windows                  17 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +114,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 17:22:38 UTC
+ Last Updated on 29/07/2025 17:24:50 UTC
 <!--END_SECTION:waka-->
