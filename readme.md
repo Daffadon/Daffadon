@@ -34,9 +34,9 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,24 +77,24 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.82 % 
-YAML                     3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Nginx configuration file 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Go                       5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+YAML                     5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Nginx configuration file 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-simple-save-book         3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-auth-service             2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-simple-auth-service      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-user-service             1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-deployment               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+deployment               6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.23 % 
+simple-save-book         3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+simple-auth-service      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+auth-service             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+user-service             1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 💻 Operating System: 
-Windows                  13 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +114,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 17:23:30 UTC
+ Last Updated on 07/08/2025 17:22:17 UTC
 <!--END_SECTION:waka-->
