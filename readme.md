@@ -34,15 +34,13 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 79.7 kB Used in GitHub's Storage 
- > 
-> 🏆 827 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,24 +75,24 @@ Sunday                   376 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       20 hrs 4 mins       ██████████████████░░░░░░░   72.70 % 
-YAML                     3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Go                       16 hrs 20 mins      █████████████████░░░░░░░░   69.64 % 
+YAML                     3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-user-service             9 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
-auth-service             7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-notification-service     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-mediamtx-monitoring      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-file-service             1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+auth-service             7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+user-service             6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+notification-service     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+mediamtx-monitoring      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+file-service             1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-Windows                  27 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -114,5 +112,5 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 17:18:29 UTC
+ Last Updated on 16/08/2025 17:17:00 UTC
 <!--END_SECTION:waka-->
