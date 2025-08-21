@@ -2,7 +2,7 @@
   <div id="header" align="center">
       <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="100"/>
       <div id="badges" style="margin-bottom:20px">
-        <a href="https://www.linkedin.com/in/daffaputranarendra/">
+        <a href="www.linkedin.com/in/daffadon">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://www.instagram.com/daffadon_/">
