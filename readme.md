@@ -36,7 +36,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,5 +114,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 17:15:20 UTC
+ Last Updated on 24/08/2025 17:16:32 UTC
 <!--END_SECTION:waka-->
