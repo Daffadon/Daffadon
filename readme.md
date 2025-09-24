@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 > 📦 80.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,093 Contributions in the Year 2025
+> 🏆 1,097 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1938 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌆 Daytime                2709 commits        ███████████░░░░░░░░░░░░░░   42.29 % 
-🌃 Evening                1620 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-🌙 Night                  139 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+🌞 Morning                2253 commits        ████████░░░░░░░░░░░░░░░░░   31.81 % 
+🌆 Daytime                3070 commits        ███████████░░░░░░░░░░░░░░   43.35 % 
+🌃 Evening                1620 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+🌙 Night                  139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   729 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Tuesday                  1595 commits        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Wednesday                1050 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 1077 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Friday                   1068 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Saturday                 468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Sunday                   419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Monday                   891 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  1787 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Wednesday                1216 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Thursday                 1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Friday                   1194 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Saturday                 468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Sunday                   419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 
@@ -114,5 +114,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2025 04:28:16 UTC
+ Last Updated on 24/09/2025 17:18:03 UTC
 <!--END_SECTION:waka-->
