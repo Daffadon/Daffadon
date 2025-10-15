@@ -34,15 +34,13 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2026%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 81.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,191 Contributions in the Year 2025
+> 🏆 1,192 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,50 +48,6 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2653 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌆 Daytime                3284 commits        ███████████░░░░░░░░░░░░░░   42.37 % 
-🌃 Evening                1675 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-🌙 Night                  139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Tuesday                  1938 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Wednesday                1319 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Thursday                 1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Friday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Saturday                 468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Sunday                   419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-YAML                     20 mins             ████████████░░░░░░░░░░░░░   49.60 % 
-Git Config               10 mins             ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Go                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-
-🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-fndn                     36 mins             ███████████████████████░░   90.39 % 
-fndn-test                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-
-💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -111,5 +65,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 17:18:06 UTC
+ Last Updated on 15/10/2025 17:23:19 UTC
 <!--END_SECTION:waka-->
