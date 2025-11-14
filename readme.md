@@ -77,21 +77,16 @@ Sunday                   419 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       1 hr 8 mins         ███████████████░░░░░░░░░░   61.62 % 
-Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fndn                     1 hr 24 mins        ███████████████████░░░░░░   76.02 % 
-fndn-test                26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -111,5 +106,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2025 17:20:46 UTC
+ Last Updated on 14/11/2025 17:18:50 UTC
 <!--END_SECTION:waka-->
