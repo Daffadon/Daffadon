@@ -34,8 +34,6 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,45 +48,6 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3034 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌆 Daytime                3444 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌃 Evening                1695 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-🌙 Night                  139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Tuesday                  2063 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Wednesday                1503 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Thursday                 1486 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Friday                   1321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Saturday                 468 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -106,5 +65,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 17:16:43 UTC
+ Last Updated on 16/11/2025 17:17:36 UTC
 <!--END_SECTION:waka-->
