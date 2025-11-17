@@ -34,13 +34,15 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 81.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,356 Contributions in the Year 2025
+> 🏆 1,368 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,6 +50,45 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3064 commits        █████████░░░░░░░░░░░░░░░░   36.72 % 
+🌆 Daytime                3446 commits        ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌃 Evening                1695 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌙 Night                  139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1076 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Tuesday                  2063 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Wednesday                1505 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 1492 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Friday                   1321 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Saturday                 468 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Sunday                   419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -65,5 +106,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 17:17:36 UTC
+ Last Updated on 17/11/2025 17:21:25 UTC
 <!--END_SECTION:waka-->
