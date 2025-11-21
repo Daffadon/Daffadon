@@ -42,6 +42,8 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 > 📦 81.2 kB Used in GitHub's Storage 
  > 
+> 🏆 1,368 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -110,5 +112,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 17:17:52 UTC
+ Last Updated on 21/11/2025 17:18:55 UTC
 <!--END_SECTION:waka-->
