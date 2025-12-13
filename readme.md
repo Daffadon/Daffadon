@@ -34,9 +34,9 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,23 +77,23 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               10 hrs 10 mins      ██████████████████░░░░░░░   71.98 % 
-Vue.js                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-XML                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript               12 hrs 1 min        ████████████████░░░░░░░░░   65.48 % 
+Vue.js                   3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cadit-apache-echarts     9 hrs 49 mins       █████████████████░░░░░░░░   69.46 % 
-profile-v2               2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-ssmc                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-profile                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+cadit-apache-echarts     11 hrs 43 mins      ████████████████░░░░░░░░░   63.84 % 
+profile-v2               5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+ssmc                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+profile                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  14 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -113,5 +113,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 17:20:33 UTC
+ Last Updated on 13/12/2025 17:18:44 UTC
 <!--END_SECTION:waka-->
