@@ -34,6 +34,8 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -48,6 +50,47 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3056 commits        ████████████░░░░░░░░░░░░░   46.57 % 
+🌆 Daytime                2697 commits        ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌃 Evening                761 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+🌙 Night                  48 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1059 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Tuesday                  1577 commits        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Wednesday                1408 commits        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Thursday                 1230 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Friday                   777 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Saturday                 312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Sunday                   199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       3 hrs 15 mins       ████████████████████████░   94.58 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+neetcode                 3 hrs 13 mins       ███████████████████████░░   93.73 % 
+fndn                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+
+💻 Operating System: 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -65,5 +108,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 17:18:39 UTC
+ Last Updated on 04/01/2026 17:18:33 UTC
 <!--END_SECTION:waka-->
