@@ -34,9 +34,9 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,18 +77,18 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       2 hrs 50 mins       ███████████████████████░░   93.82 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Go                       6 hrs 12 mins       ████████████████████████░   97.07 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neetcode                 2 hrs 48 mins       ███████████████████████░░   92.86 % 
-fndn                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+neetcode                 6 hrs 10 mins       ████████████████████████░   96.61 % 
+fndn                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -108,5 +108,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 17:24:22 UTC
+ Last Updated on 06/01/2026 17:24:31 UTC
 <!--END_SECTION:waka-->
