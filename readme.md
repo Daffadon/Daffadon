@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -77,18 +77,22 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       6 hrs 12 mins       ████████████████████████░   97.07 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Go                       9 hrs 20 mins       ████████████████████████░   97.49 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neetcode                 6 hrs 10 mins       ████████████████████████░   96.61 % 
-fndn                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+neetcode                 8 hrs 45 mins       ███████████████████████░░   91.28 % 
+fndn                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+fndn-test                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+ebike_smart_manufacturing2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -108,5 +112,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 17:24:31 UTC
+ Last Updated on 07/01/2026 17:27:56 UTC
 <!--END_SECTION:waka-->
