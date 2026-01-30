@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,24 +77,23 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               34 hrs 24 mins      ████████████████████████░   95.04 % 
+TypeScript               34 hrs 40 mins      ████████████████████████░   95.48 % 
 YAML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-CSS                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+CSS                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 17 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.37 % 
-temp-reusable            17 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.50 % 
+frontend                 24 hrs 51 mins      █████████████████░░░░░░░░   68.46 % 
+temp-reusable            10 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.86 % 
 mediamtx-monitoring      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-ebike_smart_manufacturing6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-scan-tuya-device         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+cadit-apache-echarts     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  36 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -114,5 +113,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 17:38:55 UTC
+ Last Updated on 30/01/2026 17:34:35 UTC
 <!--END_SECTION:waka-->
