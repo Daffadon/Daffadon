@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,23 +77,22 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               34 hrs 40 mins      ████████████████████████░   95.48 % 
-YAML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-CSS                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript               34 hrs 58 mins      ████████████████████████░   95.71 % 
+CSS                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 24 hrs 51 mins      █████████████████░░░░░░░░   68.46 % 
-temp-reusable            10 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-mediamtx-monitoring      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-cadit-apache-echarts     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+frontend                 31 hrs 40 mins      ██████████████████████░░░   86.66 % 
+temp-reusable            4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+cadit-apache-echarts     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  36 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -113,5 +112,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 17:34:35 UTC
+ Last Updated on 31/01/2026 17:24:56 UTC
 <!--END_SECTION:waka-->
