@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,22 +77,22 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               34 hrs 58 mins      ████████████████████████░   95.71 % 
-CSS                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               34 hrs 11 mins      ████████████████████████░   97.35 % 
+JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 31 hrs 40 mins      ██████████████████████░░░   86.66 % 
-temp-reusable            4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-cadit-apache-echarts     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+frontend                 34 hrs 30 mins      █████████████████████████   98.26 % 
+cadit-apache-echarts     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+temp-reusable            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  36 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -112,5 +112,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 17:39:23 UTC
+ Last Updated on 03/02/2026 17:54:56 UTC
 <!--END_SECTION:waka-->
