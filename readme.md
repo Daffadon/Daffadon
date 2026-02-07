@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,21 +77,21 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               28 hrs 31 mins      ████████████████████████░   96.34 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               21 hrs 50 mins      ████████████████████████░   97.50 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 28 hrs 52 mins      ████████████████████████░   97.47 % 
-cadit-apache-echarts     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+frontend                 22 hrs 6 mins       █████████████████████████   98.63 % 
+cadit-apache-echarts     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Windows                  29 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -111,5 +111,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 17:42:48 UTC
+ Last Updated on 07/02/2026 17:26:42 UTC
 <!--END_SECTION:waka-->
