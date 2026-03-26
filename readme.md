@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,21 +77,22 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 8 mins        ██████████████████░░░░░░░   72.78 % 
-Python                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+TypeScript               37 mins             ██████████████████░░░░░░░   71.08 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+shell script             6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Go                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Zed                      4 hrs 18 mins       █████████████████████████   100.00 % 
+Zed                      52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jp_sfty                  3 hrs 8 mins        ██████████████████░░░░░░░   72.98 % 
-Unknown Project          1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+jp_sfty                  37 mins             ██████████████████░░░░░░░   71.08 % 
+Unknown Project          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+fe_deployment            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+export_import_nlc        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -111,5 +112,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 17:59:51 UTC
+ Last Updated on 26/03/2026 18:02:52 UTC
 <!--END_SECTION:waka-->
