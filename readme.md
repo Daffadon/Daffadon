@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2035%20mins-blue?style=flat)
 
@@ -79,21 +79,21 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 hrs 42 mins      █████████████████░░░░░░░░   67.32 % 
-Vue                      4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-shell script             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               12 hrs 57 mins      ████████████████░░░░░░░░░   65.35 % 
+Vue                      4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+shell script             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Zed                      20 hrs 21 mins      █████████████████████████   100.00 % 
+Zed                      19 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-v2-admin         15 hrs 14 mins      ███████████████████░░░░░░   74.92 % 
-profile-v2               5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+profile-v2-admin         11 hrs              ██████████████░░░░░░░░░░░   55.55 % 
+profile-v2               8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
 
 💻 Operating System: 
-Windows                  20 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 18:21:12 UTC
+ Last Updated on 01/08/2026 18:01:16 UTC
 <!--END_SECTION:waka-->
