@@ -79,21 +79,21 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 57 mins      ████████████████░░░░░░░░░   65.35 % 
-Vue                      4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-shell script             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               12 hrs 49 mins      ████████████████░░░░░░░░░   65.64 % 
+Vue                      4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+shell script             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Zed                      19 hrs 49 mins      █████████████████████████   100.00 % 
+Zed                      19 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-v2-admin         11 hrs              ██████████████░░░░░░░░░░░   55.55 % 
-profile-v2               8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
+profile-v2-admin         10 hrs 44 mins      ██████████████░░░░░░░░░░░   54.94 % 
+profile-v2               8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.06 % 
 
 💻 Operating System: 
-Windows                  19 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 18:01:16 UTC
+ Last Updated on 02/08/2026 18:02:48 UTC
 <!--END_SECTION:waka-->
