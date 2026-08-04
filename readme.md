@@ -42,7 +42,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 **🐱 My GitHub Data** 
 
-> 📦 84.1 kB Used in GitHub's Storage 
+> 📦 84.3 kB Used in GitHub's Storage 
  > 
 > 🏆 357 Contributions in the Year 2026
  > 
@@ -55,21 +55,21 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3203 commits        ████████████░░░░░░░░░░░░░   46.90 % 
-🌆 Daytime                2816 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
-🌃 Evening                768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+🌞 Morning                3205 commits        ████████████░░░░░░░░░░░░░   46.87 % 
+🌆 Daytime                2823 commits        ██████████░░░░░░░░░░░░░░░   41.28 % 
+🌃 Evening                768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Tuesday                  1557 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Wednesday                1410 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Thursday                 1423 commits        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Friday                   902 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  1566 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Wednesday                1410 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Thursday                 1423 commits        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Friday                   902 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 Saturday                 283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 
@@ -79,21 +79,21 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 49 mins      ████████████████░░░░░░░░░   65.64 % 
-Vue                      4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-shell script             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               11 hrs 6 mins       █████████████████░░░░░░░░   67.29 % 
+Vue                      3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+shell script             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Zed                      19 hrs 33 mins      █████████████████████████   100.00 % 
+Zed                      16 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-v2-admin         10 hrs 44 mins      ██████████████░░░░░░░░░░░   54.94 % 
-profile-v2               8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.06 % 
+profile-v2               8 hrs 48 mins       █████████████░░░░░░░░░░░░   53.38 % 
+profile-v2-admin         7 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.62 % 
 
 💻 Operating System: 
-Windows                  19 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 18:02:48 UTC
+ Last Updated on 04/08/2026 18:28:21 UTC
 <!--END_SECTION:waka-->
