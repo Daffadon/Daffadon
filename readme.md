@@ -34,11 +34,15 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2035%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.3 kB Used in GitHub's Storage 
+> 📦 84.4 kB Used in GitHub's Storage 
  > 
 > 🏆 357 Contributions in the Year 2026
  > 
@@ -46,16 +50,69 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3206 commits        ████████████░░░░░░░░░░░░░   46.87 % 
+🌆 Daytime                2824 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌃 Evening                768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  1566 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Wednesday                1411 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Thursday                 1423 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Friday                   903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Saturday                 283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
+Vue                      2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Go                       1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+SQL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+🔥 Editors: 
+Zed                      10 hrs 19 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+profile-v2               5 hrs 43 mins       ██████████████░░░░░░░░░░░   55.51 % 
+profile-v2-admin         1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+backend                  1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+frontend                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+odysseus                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+💻 Operating System: 
+Windows                  10 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
-Go                       27 repos            █████████░░░░░░░░░░░░░░░░   34.62 % 
-TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Go                       28 repos            █████████░░░░░░░░░░░░░░░░   35.44 % 
+TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
@@ -65,5 +122,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:20:12 UTC
+ Last Updated on 07/08/2026 17:49:59 UTC
 <!--END_SECTION:waka-->
