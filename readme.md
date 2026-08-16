@@ -34,7 +34,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2035%20mins-blue?style=flat)
 
@@ -79,24 +79,24 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
-Vue                      3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-TypeScript               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-SQL                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Go                       4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+Vue                      3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+TypeScript               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+SQL                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editors: 
-Zed                      14 hrs 20 mins      █████████████████████████   100.00 % 
+Zed                      14 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digihome                 7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.70 % 
-profile-v2-admin         3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-profile-v2               2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-scan-tuya-device         58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-backend                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+digihome                 7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.33 % 
+profile-v2-admin         3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+profile-v2               2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+scan-tuya-device         58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+backend                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Windows                  14 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,5 +122,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 17:20:56 UTC
+ Last Updated on 16/08/2026 17:19:15 UTC
 <!--END_SECTION:waka-->
