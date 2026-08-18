@@ -55,21 +55,21 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3210 commits        ████████████░░░░░░░░░░░░░   46.71 % 
-🌆 Daytime                2852 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
-🌃 Evening                768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+🌞 Morning                3176 commits        ████████████░░░░░░░░░░░░░   46.71 % 
+🌆 Daytime                2814 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
+🌃 Evening                768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Tuesday                  1587 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Wednesday                1423 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Thursday                 1423 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Friday                   902 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Saturday                 283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Monday                   1070 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Tuesday                  1571 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Wednesday                1421 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Thursday                 1414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Friday                   893 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 
@@ -79,24 +79,24 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-Vue                      3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-TypeScript               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-SQL                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Go                       3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Vue                      3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+TypeScript               2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+SQL                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-Zed                      14 hrs 26 mins      █████████████████████████   100.00 % 
+Zed                      11 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digihome                 7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.33 % 
-profile-v2-admin         3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-profile-v2               2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-scan-tuya-device         58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-backend                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+digihome                 4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+profile-v2-admin         3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+profile-v2               2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+scan-tuya-device         58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,11 +108,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       28 repos            █████████░░░░░░░░░░░░░░░░   35.44 % 
-TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Go                       26 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
+TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
@@ -122,5 +122,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 17:27:24 UTC
+ Last Updated on 18/08/2026 17:26:39 UTC
 <!--END_SECTION:waka-->
