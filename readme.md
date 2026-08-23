@@ -79,30 +79,30 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
-Vue                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Go                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-SQL                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+TypeScript               7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.80 % 
+Vue                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Go                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+SQL                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Zed                      17 hrs 15 mins      █████████████████████████   100.00 % 
+Zed                      17 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-v2               5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
-digihome-fe              5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-digihome                 4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-profile-v2-admin         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-TradingAgents            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+profile-v2               5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
+digihome-fe              5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+digihome                 4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+profile-v2-admin         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+CADIT-IDN                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 30 mins (43.53%)
+⏱ AI Coding Time: 7 hrs 30 mins (43.86%)
 
 ✍️ 1,839 lines written by AI, 491 lines written by hand (78.93% AI-written)
 
@@ -140,5 +140,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 17:20:33 UTC
+ Last Updated on 23/08/2026 17:20:18 UTC
 <!--END_SECTION:waka-->
