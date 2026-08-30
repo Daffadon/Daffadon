@@ -38,7 +38,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -141,5 +141,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 19:39:07 UTC
+ Last Updated on 30/08/2026 19:40:27 UTC
 <!--END_SECTION:waka-->
