@@ -44,7 +44,7 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 
 > 📦 85.0 kB Used in GitHub's Storage 
  > 
-> 🏆 357 Contributions in the Year 2026
+> 🏆 414 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,20 +55,20 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2804 commits        ████████████░░░░░░░░░░░░░   46.07 % 
-🌆 Daytime                2471 commits        ██████████░░░░░░░░░░░░░░░   40.60 % 
-🌃 Evening                769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+🌞 Morning                2817 commits        ████████████░░░░░░░░░░░░░   46.19 % 
+🌆 Daytime                2471 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
+🌃 Evening                769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   925 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Tuesday                  1373 commits        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Wednesday                1263 commits        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Thursday                 1301 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   793 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Monday                   938 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Tuesday                  1373 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Wednesday                1263 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Thursday                 1301 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Friday                   793 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Saturday                 283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
@@ -79,49 +79,49 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
-TypeScript               4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-TOML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Python                   6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
+TypeScript               3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Markdown                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Editors: 
-Zed                      20 hrs 17 mins      █████████████████████████   100.00 % 
+Zed                      19 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lunatic-be               9 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.98 % 
-lunatic                  4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-CADIT-IDN                2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-digihome-fe              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-digihome                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+lunatic-be               9 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.94 % 
+CADIT-IDN                2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+lunatic                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Unknown Project          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+digihome                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 💻 Operating System: 
-Windows                  20 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 22 mins (85.62%)
+⏱ AI Coding Time: 15 hrs 25 mins (79.17%)
 
-✍️ 9,828 lines written by AI, 69 lines written by hand (99.3% AI-written)
+✍️ 7,338 lines written by AI, 106 lines written by hand (98.58% AI-written)
 
-🔤 18,260,031 Input Tokens, 1,010,946 Output Tokens
+🔤 16,968,110 Input Tokens, 945,044 Output Tokens
 
-💵 $873.79 Estimated AI Cost This Week
+💵 $751.43 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 129 AI Prompts
+🧠 20 AI Sessions, 118 AI Prompts
 
-Spark                    8,149 lines         ████████████████████░░░░░   80.29 % 
-Deepseek                 2,001 lines         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Spark                    5,632 lines         ██████████████████░░░░░░░   73.78 % 
+Deepseek                 2,001 lines         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.3% of written lines came from AI
-📄 Detailed Prompter — average 676 characters per prompt
+🤖 AI-Driven — 98.58% of written lines came from AI
+📄 Detailed Prompter — average 789 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.89% of changed lines were hand-edited
+🚀 High AI Trust — 3.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,5 +141,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 19:40:27 UTC
+ Last Updated on 31/08/2026 21:46:28 UTC
 <!--END_SECTION:waka-->
