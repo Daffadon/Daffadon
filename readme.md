@@ -79,48 +79,48 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.04 % 
-TypeScript               2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-YAML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Vue                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Go                       5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
+TypeScript               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+YAML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Vue                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Zed                      11 hrs 31 mins      █████████████████████████   100.00 % 
+Zed                      14 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fndn                     2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-backend                  2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-profile-v2               2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-frontend                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+backend                  4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
+fndn                     2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+frontend                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+profile-v2               2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+deployment               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Windows                  11 hrs 9 mins       ████████████████████████░   96.89 % 
-Linux                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Windows                  14 hrs 25 mins      ████████████████████████░   97.58 % 
+Linux                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 44 mins (49.86%)
+⏱ AI Coding Time: 7 hrs 6 mins (48.04%)
 
-✍️ 681 lines written by AI, 160 lines written by hand (80.98% AI-written)
+✍️ 1,339 lines written by AI, 1,369 lines written by hand (49.45% AI-written)
 
-🔤 2,677,381 Input Tokens, 221,519 Output Tokens
+🔤 3,452,647 Input Tokens, 267,684 Output Tokens
 
-💵 $134.03 Estimated AI Cost This Week
+💵 $158.99 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 71 AI Prompts
+🧠 18 AI Sessions, 86 AI Prompts
 
-Spark                    843 lines           █████████████████████████   100.00 % 
+Spark                    1,524 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.98% of written lines came from AI
-📚 Verbose Prompter — average 2,190 characters per prompt
+⚖️ Balanced with AI — 49.45% of written lines came from AI
+📚 Verbose Prompter — average 2,416 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 23.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 69.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,5 +140,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 19:13:59 UTC
+ Last Updated on 14/09/2026 20:47:07 UTC
 <!--END_SECTION:waka-->
