@@ -34,11 +34,11 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C157%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,19 +55,19 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3048 commits        ████████████░░░░░░░░░░░░░   47.01 % 
-🌆 Daytime                2611 commits        ██████████░░░░░░░░░░░░░░░   40.27 % 
-🌃 Evening                783 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+🌞 Morning                3049 commits        ████████████░░░░░░░░░░░░░   46.99 % 
+🌆 Daytime                2614 commits        ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌃 Evening                783 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   958 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Tuesday                  1486 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Wednesday                1362 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Thursday                 1388 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Friday                   871 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Tuesday                  1486 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Wednesday                1362 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Thursday                 1389 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Friday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 Saturday                 271 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 Sunday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
@@ -79,47 +79,47 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-TypeScript               3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-YAML                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-shell script             1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Go                       5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+TypeScript               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+YAML                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+C#                       1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+shell script             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Zed                      19 hrs 35 mins      █████████████████████████   100.00 % 
+Zed                      19 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  7 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.65 % 
-frontend                 3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-deployment               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-fndn                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Unknown Project          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+backend                  7 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.86 % 
+frontend                 3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+deployment               3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Unknown Project          3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+profile-v2               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Windows                  19 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 38 mins (44.13%)
+⏱ AI Coding Time: 7 hrs 58 mins (39.9%)
 
-✍️ 2,247 lines written by AI, 1,631 lines written by hand (57.94% AI-written)
+✍️ 2,273 lines written by AI, 1,741 lines written by hand (56.63% AI-written)
 
-🔤 5,299,541 Input Tokens, 345,269 Output Tokens
+🔤 4,566,827 Input Tokens, 303,365 Output Tokens
 
-💵 $181.49 Estimated AI Cost This Week
+💵 $162.19 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 101 AI Prompts
+🧠 16 AI Sessions, 74 AI Prompts
 
-Spark                    2,345 lines         █████████████████████████   100.00 % 
+Spark                    2,335 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.94% of written lines came from AI
-📚 Verbose Prompter — average 2,203 characters per prompt
+⚖️ Balanced with AI — 56.63% of written lines came from AI
+📚 Verbose Prompter — average 2,167 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 63.83% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,5 +139,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 20:02:09 UTC
+ Last Updated on 18/09/2026 19:28:56 UTC
 <!--END_SECTION:waka-->
