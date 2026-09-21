@@ -79,47 +79,48 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-YAML                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-csharp                   2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-C#                       2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-TypeScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+csharp                   4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+C#                       3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+YAML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Go                       1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 🔥 Editors: 
-Zed                      17 hrs 58 mins      █████████████████████████   100.00 % 
+Zed                      21 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-backend                  5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-deployment               3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-frontend                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-profile-v2               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Unknown Project          5 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+WebServiceLearning       4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+backend                  3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+deployment               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+rd-nodelinx-cv-studio-cv-1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 💻 Operating System: 
-Windows                  17 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 50 mins      ██████████████████████░░░   86.13 % 
+Linux                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 14 mins (34.7%)
+⏱ AI Coding Time: 8 hrs 34 mins (39.21%)
 
-✍️ 2,227 lines written by AI, 1,684 lines written by hand (56.94% AI-written)
+✍️ 1,640 lines written by AI, 708 lines written by hand (69.85% AI-written)
 
-🔤 3,813,898 Input Tokens, 225,465 Output Tokens
+🔤 4,449,876 Input Tokens, 237,324 Output Tokens
 
-💵 $118.04 Estimated AI Cost This Week
+💵 $124.03 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 63 AI Prompts
+🧠 21 AI Sessions, 97 AI Prompts
 
-Spark                    2,267 lines         █████████████████████████   100.00 % 
+Spark                    1,658 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.94% of written lines came from AI
-📚 Verbose Prompter — average 2,821 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.65% of changed lines were hand-edited
+🤖 AI-Driven — 69.85% of written lines came from AI
+📚 Verbose Prompter — average 2,520 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 42.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,5 +140,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 19:18:06 UTC
+ Last Updated on 21/09/2026 20:49:57 UTC
 <!--END_SECTION:waka-->
