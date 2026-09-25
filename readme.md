@@ -34,9 +34,9 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -79,49 +79,49 @@ Sunday                   148 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-csharp                   3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-C#                       3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-TypeScript               2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-SQL                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+TypeScript               4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+C#                       2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+csharp                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+SQL                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 Editors: 
-Zed                      17 hrs 51 mins      █████████████████████████   100.00 % 
+Zed                      17 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WebServiceLearning       8 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.09 % 
-Unknown Project          2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-frontend                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-backend                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-aliocr-deployed          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+WebServiceLearning       8 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.03 % 
+frontend                 4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+backend                  1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+aliocr-deployed          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Windows                  17 hrs 19 mins      ████████████████████████░   97.00 % 
-Linux                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Windows                  16 hrs 51 mins      █████████████████████████   98.18 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 4 mins (50.8%)
+⏱ AI Coding Time: 10 hrs 51 mins (63.25%)
 
-✍️ 1,231 lines written by AI, 426 lines written by hand (74.29% AI-written)
+✍️ 1,352 lines written by AI, 356 lines written by hand (79.16% AI-written)
 
-🔤 2,717,715 Input Tokens, 270,637 Output Tokens
+🔤 3,428,371 Input Tokens, 367,703 Output Tokens
 
-💵 $155.14 Estimated AI Cost This Week
+💵 $238.97 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 109 AI Prompts
+🧠 20 AI Sessions, 121 AI Prompts
 
-Spark                    1,153 lines         ███████████████████████░░   91.15 % 
-Opencode-Cli             112 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Spark                    1,532 lines         ██████████████████████░░░   89.02 % 
+Opencode-Cli             189 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.29% of written lines came from AI
-📚 Verbose Prompter — average 1,782 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.45% of changed lines were hand-edited
+🤖 AI-Driven — 79.16% of written lines came from AI
+📄 Detailed Prompter — average 1,166 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 19.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,5 +141,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Daffadon/Daffadon/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 20:18:49 UTC
+ Last Updated on 25/09/2026 20:17:21 UTC
 <!--END_SECTION:waka-->
