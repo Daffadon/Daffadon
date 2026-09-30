@@ -25,5 +25,3 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 - Excited with Network, Back End, and Cloud Computing ☁️
 - In my free time, I'm exploring the world and my passion ⛺🍵
 - These below is a way to reach me! 🏃
-
-[![Gmail Badge](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daffaputranarendra9@gmail.com)
