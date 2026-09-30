@@ -26,9 +26,4 @@ I'm a student who want to be a FullStack Developer 🧑‍💻
 - In my free time, I'm exploring the world and my passion ⛺🍵
 - These below is a way to reach me! 🏃
 
-[![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daffadon)
 [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daffaputranarendra9@gmail.com)
-
-### Tech Stack 💻 📘
-
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,golang,react,next,express,vite,tailwind,mui,prisma,mongodb,mysql,firebase,jest,git,jenkins,docker,kubernetes,github,postman,prometheus,grafana,gcp,vscode,arch,&perline=9"/>
