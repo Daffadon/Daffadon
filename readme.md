@@ -13,7 +13,6 @@
         </a>
       </div>
     <h1>Hi You! 🙌🙌</h1>
-    <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif" height=200 style="border-radius:10px" />
   </div>
 </div>
 
